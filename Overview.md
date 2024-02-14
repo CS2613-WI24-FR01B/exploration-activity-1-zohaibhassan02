@@ -59,3 +59,5 @@ I would recommend Seaborn to anyone working with Python for data analysis and vi
 ## 7. Would you continue using this package/library? Why or why not?
 Yes, I would continue using Seaborn for my data visualization needs. Its flexibility, aesthetics, and seamless integration with pandas make it a valuable tool for creating compelling visualizations.
 
+<img width="264" alt="output image" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg">
+
