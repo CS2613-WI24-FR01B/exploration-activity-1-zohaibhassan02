@@ -1,10 +1,10 @@
 # Understanding Seaborn: A Comprehensive Guide
 
 ## 1. Which package/library did you select?
-I selected the Seaborn package for this discussion.
+I selected the [Seaborn](https://seaborn.pydata.org/) package for this discussion.
 
 ## 2. What is the package/library?
-Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. Seaborn is built on top of Matplotlib and integrates closely with pandas data structures, making it easy to visualize datasets directly.
+Seaborn is a Python data visualization library based on [matplotlib](https://matplotlib.org/). It provides a high-level interface for drawing attractive and informative statistical graphics. Seaborn is built on top of Matplotlib and integrates closely with pandas data structures, making it easy to visualize datasets directly.
 
 ### What purpose does it serve?
 Seaborn is primarily used for statistical data visualization. It helps in exploring and understanding datasets by providing a wide range of plotting functions for visualizing relationships between variables in the data.
@@ -16,7 +16,7 @@ Seaborn can be used to create various types of plots such as histograms, scatter
 I selected Seaborn because of its simplicity, versatility, and aesthetic appeal in creating informative visualizations. It offers a wide range of plot types and customization options, making it suitable for both exploratory data analysis and presentation-quality graphics.
 
 ### How did learning the package/library influence your learning of the language?
-Learning Seaborn enhanced my understanding of Pythons data visualization capabilities. It provided me with tools to effectively communicate insights from data through visually appealing plots. Additionally, working with Seaborn improved my proficiency in using Pandas for data manipulation and Matplotlib for fine-tuning visualizations.
+Learning Seaborn enhanced my understanding of Pythons data visualization capabilities. It provided me with tools to effectively communicate insights from data through visually appealing plots. Additionally, working with Seaborn improved my proficiency in using [Pandas](https://pandas.pydata.org/) for data manipulation and Matplotlib for fine-tuning visualizations.
 
 ## 3. What are the functionalities of the package/library?
 Seaborn offers various functionalities for creating statistical graphics. Here are some examples:

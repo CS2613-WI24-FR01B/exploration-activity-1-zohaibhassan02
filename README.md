@@ -12,7 +12,7 @@ To run the program, follow these steps:
 3. Install the required libraries by running `pip install seaborn pandas matplotlib.pyplot`.
 4. Place your dataset (e.g., `housing.csv`) in the same directory as the Python script.
 5. Open a terminal or command prompt and navigate to the directory containing the Python script.
-6. Run the Python script in visual studio code (use kernel version python 3.11.7) using the run button.
+6. Run p2.ipynb in visual studio code (use kernel version python 3.11.7) using the run button.
 
 ## 3. What purpose does your program serve?
 
