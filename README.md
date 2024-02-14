@@ -21,7 +21,7 @@ The program serves the purpose of analyzing and visualizing a housing dataset us
 ## 4. What would be some sample input/output?
 
 Sample Input (housing.csv):
-
+<br>
 
 <img width="264" alt="Screenshot 2024-02-13 at 10 11 48 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-zohaibhassan02/assets/98820921/abf1d79f-de79-4af2-ac82-87853c714934">
 
