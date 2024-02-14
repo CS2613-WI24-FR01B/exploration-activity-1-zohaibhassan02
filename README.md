@@ -23,11 +23,11 @@ The program serves the purpose of analyzing and visualizing a housing dataset us
 Sample Input (housing.csv):
 <br>
 
-<img width="264" alt="Screenshot 2024-02-13 at 10 11 48 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-zohaibhassan02/assets/98820921/abf1d79f-de79-4af2-ac82-87853c714934">
+<img width="264" alt="input image" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-zohaibhassan02/assets/98820921/abf1d79f-de79-4af2-ac82-87853c714934">
 
 <br>
 Sample Output (housing.csv):
 
 <br>
-![output](https://github.com/CS2613-WI24-FR01B/exploration-activity-1-zohaibhassan02/assets/98820921/eef34108-fb0a-405c-9419-10a449e2a010)
+<img width="264" alt="output image" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-zohaibhassan02/assets/98820921/eef34108-fb0a-405c-9419-10a449e2a010">
 
