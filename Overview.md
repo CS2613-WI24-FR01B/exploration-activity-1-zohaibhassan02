@@ -27,21 +27,21 @@ import matplotlib.pyplot as plt
 ```
 
 # Example 1: Scatter plot
-```
+```python
 sns.scatterplot(x='x_variable', y='y_variable', data=data)
 plt.title('Scatter Plot')
 plt.show()
 ```
 
 # Example 2: Histogram
-```
+```python
 sns.histplot(data['numeric_variable'], bins=20, kde=True)
 plt.title('Histogram')
 plt.show()
 ```
 
 # Example 3: Box plot
-```
+```python
 sns.boxplot(x='group_variable', y='numeric_variable', data=data)
 plt.title('Box Plot')
 plt.show()
