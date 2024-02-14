@@ -29,4 +29,5 @@ Sample Input (housing.csv):
 Sample Output (housing.csv):
 
 <br>
-![alt text](../../../Desktop/uni/CS2613/exploration/seaborn/output.png)
+![output](https://github.com/CS2613-WI24-FR01B/exploration-activity-1-zohaibhassan02/assets/98820921/eef34108-fb0a-405c-9419-10a449e2a010)
+
