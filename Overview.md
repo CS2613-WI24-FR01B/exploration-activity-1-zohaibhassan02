@@ -61,9 +61,13 @@ Yes, I would continue using Seaborn [5] for my data visualization needs. Its fle
 
 ## 8. References
 [1] https://seaborn.pydata.org/
+
 [2] https://matplotlib.org/
+
 [3] https://pandas.pydata.org/
+
 [4] https://ai-jobs.net/insights/seaborn-explained/#:~:text=Seaborn%20was%20developed%20by%20Michael,to%20generate%20visually%20appealing%20plots.
+
 [5] https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp
 
 
