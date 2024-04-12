@@ -1,10 +1,10 @@
 # Understanding Seaborn: A Comprehensive Guide
 
 ## 1. Which package/library did you select?
-I selected the [Seaborn](https://seaborn.pydata.org/) package for this discussion.
+I selected the [Seaborn](https://seaborn.pydata.org/) [1] package for this discussion.
 
 ## 2. What is the package/library?
-Seaborn is a Python data visualization library based on [matplotlib](https://matplotlib.org/). It provides a high-level interface for drawing attractive and informative statistical graphics. Seaborn is built on top of Matplotlib and integrates closely with pandas data structures, making it easy to visualize datasets directly.
+Seaborn is a Python data visualization library based on [matplotlib](https://matplotlib.org/) [2]. It provides a high-level interface for drawing attractive and informative statistical graphics. Seaborn is built on top of Matplotlib and integrates closely with pandas data structures, making it easy to visualize datasets directly.
 
 ### What purpose does it serve?
 Seaborn is primarily used for statistical data visualization. It helps in exploring and understanding datasets by providing a wide range of plotting functions for visualizing relationships between variables in the data.
@@ -16,7 +16,7 @@ Seaborn can be used to create various types of plots such as histograms, scatter
 I selected Seaborn because of its simplicity, versatility, and aesthetic appeal in creating informative visualizations. It offers a wide range of plot types and customization options, making it suitable for both exploratory data analysis and presentation-quality graphics.
 
 ### How did learning the package/library influence your learning of the language?
-Learning Seaborn enhanced my understanding of Pythons data visualization capabilities. It provided me with tools to effectively communicate insights from data through visually appealing plots. Additionally, working with Seaborn improved my proficiency in using [Pandas](https://pandas.pydata.org/) for data manipulation and Matplotlib for fine-tuning visualizations.
+Learning Seaborn enhanced my understanding of Pythons data visualization capabilities. It provided me with tools to effectively communicate insights from data through visually appealing plots. Additionally, working with Seaborn improved my proficiency in using [Pandas](https://pandas.pydata.org/) [3] for data manipulation and Matplotlib for fine-tuning visualizations.
 
 ## 3. What are the functionalities of the package/library?
 Seaborn offers various functionalities for creating statistical graphics. Here are some examples:
@@ -48,7 +48,7 @@ plt.show()
 ```
 
 ## 4. When was it created?
-Seaborn was created in 2012.
+Seaborn was created in 2012. [4]
 
 ## 5. How was your overall experience with the package/library?
 Seaborn provided a pleasant experience for data visualization tasks. Its intuitive interface and rich set of plotting functions allowed me to create visually appealing and informative graphics with ease.
@@ -57,7 +57,15 @@ Seaborn provided a pleasant experience for data visualization tasks. Its intuiti
 I would recommend Seaborn to anyone working with Python for data analysis and visualization tasks. It is particularly useful for exploring datasets and communicating insights through visualizations.
 
 ## 7. Would you continue using this package/library? Why or why not?
-Yes, I would continue using Seaborn for my data visualization needs. Its flexibility, aesthetics, and seamless integration with pandas make it a valuable tool for creating compelling visualizations.
+Yes, I would continue using Seaborn [5] for my data visualization needs. Its flexibility, aesthetics, and seamless integration with pandas make it a valuable tool for creating compelling visualizations.
+
+## 8. References
+[1] https://seaborn.pydata.org/
+[2] https://matplotlib.org/
+[3] https://pandas.pydata.org/
+[4] https://ai-jobs.net/insights/seaborn-explained/#:~:text=Seaborn%20was%20developed%20by%20Michael,to%20generate%20visually%20appealing%20plots.
+[5] https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp
+
 
 <img width="264" alt="output image" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg">
 
